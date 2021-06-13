@@ -4,4 +4,4 @@ applications:
 - name: onlineTest
   memory: 256M
   instances: 1
-  random-route: tru
+  random-route: true
