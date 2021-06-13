@@ -1,7 +1,6 @@
-Manifest-Version: 1.0
-Class-Path: 
 applications:
-- name: onlineTest
-  memory: 256M
+- buildpack: https://github.com/jthomas/nodejs-v4-buildpack.git
+  command: ./bin/hubot --adapter slack
+  path: .
   instances: 1
-  random-route: true
+  memory: 256M
