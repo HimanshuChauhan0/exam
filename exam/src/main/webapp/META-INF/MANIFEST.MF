@@ -1,8 +1,7 @@
 Manifest-Version: 1.0
 Class-Path: 
 applications:
-- path: .
-  name: exam
+- name: GetStartedJava
   memory: 256M
   instances: 1
   random-route: tru
