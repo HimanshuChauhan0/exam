@@ -3,6 +3,6 @@ Class-Path:
  applications:
 - path: .
   name: onlineTest
- memory: 15M
+ memory: 15Mb
   instances: 1
   random-route: true
