@@ -1,8 +1,7 @@
 Manifest-Version: 1.0
-Class-Path: 
+
  applications:
-- path: .
   name: onlineTest
- memory: 15Mb
+ memory: 156Mb
   instances: 1
   random-route: true
