@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 
  applications:
   name: onlineTest
- memory: 156Mb
- bulidpack: java-bulidpack
+ memory: 156M
+buildpack: java-buildpack
   instances: 1
   random-route: true
